@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\bin\Debug\netcoreapp3.1\Access modifiers part-2.exe
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\bin\Debug\netcoreapp3.1\Access modifiers part-2.deps.json
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\bin\Debug\netcoreapp3.1\Access modifiers part-2.runtimeconfig.json
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\bin\Debug\netcoreapp3.1\Access modifiers part-2.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\bin\Debug\netcoreapp3.1\Access modifiers part-2.dll
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\bin\Debug\netcoreapp3.1\Access modifiers part-2.pdb
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\obj\Debug\netcoreapp3.1\Access modifiers part-2.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\obj\Debug\netcoreapp3.1\Access modifiers part-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\obj\Debug\netcoreapp3.1\Access modifiers part-2.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\obj\Debug\netcoreapp3.1\Access modifiers part-2.AssemblyInfo.cs
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\obj\Debug\netcoreapp3.1\Access modifiers part-2.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\obj\Debug\netcoreapp3.1\Access modifiers part-2.dll
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\obj\Debug\netcoreapp3.1\Access modifiers part-2.pdb
+C:\Users\nargi\Desktop\pat2\Access modifiers part-2\Access modifiers part-2\obj\Debug\netcoreapp3.1\Access modifiers part-2.genruntimeconfig.cache
